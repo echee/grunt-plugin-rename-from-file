@@ -30,7 +30,7 @@ exports.plugin_rename_from_file = {
   default_options: function(test) {
     var file = '35d54f6649e07b9db764998faa2bce61.jpg';
     var actual = grunt.file.exists('test/expected/' + file);
-    var expected = grunt.file.exists('tmp/images/' + file);
+    var expected = grunt.file.exists('dist/images/' + file);
     grunt.file.exists
     test.equal(actual, expected, 'should describe what the default behavior is.');
 

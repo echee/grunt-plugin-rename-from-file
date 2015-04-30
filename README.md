@@ -28,7 +28,7 @@ grunt.initConfig({
       rename: {
         images: 'test/images/*.jpg',
         names: 'test/list_of_names.json',
-        dest: 'tmp/images/'
+        dest: 'dist/images/'
       }
   },
 });

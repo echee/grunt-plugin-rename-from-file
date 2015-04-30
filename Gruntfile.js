@@ -33,7 +33,7 @@ module.exports = function(grunt) {
       rename: {
         images: 'test/images/*.jpg',
         names: 'test/works.json',
-        dest: 'tmp/images/'
+        dest: 'dist/images/'
       }
     },
 
