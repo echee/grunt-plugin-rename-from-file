@@ -1,0 +1,31 @@
+[{
+    "composer": "Fauré",
+    "work": "Piano Trio in D minor, Op 120",
+    "movement": "2nd movt: Andantino",
+    "key": "faurpianotrioindminorop120",
+    "md5": "dc50ab524663c623720534a85569ffd6"
+}, {
+    "composer": "Morton Feldman",
+    "work": "Rothko Chapel",
+    "movement": "",
+    "key": "mortonfeldmanrothkochapel",
+    "md5": "c7f259605977d2cf116931bbb2fe0461"
+}, {
+    "composer": "Wagner",
+    "work": "Parsifal",
+    "movement": "Transformation Scene (Act 1)",
+    "key": "wagnerparsifal",
+    "md5": "5373ee2b5d0eeca98850a6852ccef051"
+}, {
+    "composer": "Hungarian Traditional",
+    "work": "Szelerem, szelerem (Love, love)",
+    "movement": "",
+    "key": "hungariantraditionalszeleremszeleremlovelove",
+    "md5": "cdd350597745009abbdff94c676a7920"
+}, {
+    "composer": "Fontana",
+    "work": "Sonata seconda",
+    "movement": "",
+    "key": "fontanasonataseconda",
+    "md5": "35d54f6649e07b9db764998faa2bce61"
+}]
