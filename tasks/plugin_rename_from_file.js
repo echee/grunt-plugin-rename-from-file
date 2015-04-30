@@ -13,7 +13,7 @@ module.exports = function(grunt) {
   // Please see the Grunt documentation for more information regarding task
   // creation: http://gruntjs.com/creating-tasks
 
-  grunt.registerMultiTask('plugin_rename_from_file', 'batch rename files by mapping them to a supplied list of names. Intended to renamed a bunch of image files that corresponded to a random name.', function() {
+  grunt.registerMultiTask('plugin_rename_from_file', 'batch rename files by mapping them to a supplied list of names. Intended to rename a bunch of image files that corresponded to a random name from a json file.', function() {
     // Merge task-specific and/or target-specific options with these defaults.
     var options = this.options({
       punctuation: '.',
