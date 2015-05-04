@@ -19,6 +19,19 @@ grunt.loadNpmTasks('grunt-plugin-rename-from-file');
 
 ## The "plugin_rename_from_file" task
 
+### Options
+#### images
+The destination of the images to be renamed
+
+#### names
+The destination of the JSON file with the names to be used.
+
+#### dest
+Where the renamed images will be saved to.
+
+#### lookup_key
+The key in the JSON file to be used as the name variable in the conversion process.
+
 ### Overview
 In your project's Gruntfile, add a section named `plugin_rename_from_file` to the data object passed into `grunt.initConfig()`.
 
