@@ -28,7 +28,8 @@ grunt.initConfig({
       rename: {
         images: 'test/images/*.jpg',
         names: 'test/list_of_names.json',
-        dest: 'dist/images/'
+        dest: 'dist/images/',
+        lookup_key: 'md5'
       }
   },
 });

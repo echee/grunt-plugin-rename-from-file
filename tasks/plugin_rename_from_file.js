@@ -22,6 +22,7 @@ module.exports = function(grunt) {
 
     // Iterate over all specified file groups.
     this.files.forEach(function(file) {
+      var key = file.lookup_key;
       var namesList = [];
       var dest = file.dest;
       var names = file.names;
@@ -32,7 +33,7 @@ module.exports = function(grunt) {
 
       //create an array to hold the names of the md5's
       for (var i=0; i<jsonfile.length; i++) {
-        namesList.push(jsonfile[i].md5);
+        namesList.push(jsonfile[i][key]);
       }
 
       // copy the images to the destination folder with an md5 name

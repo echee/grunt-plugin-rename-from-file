@@ -1,6 +1,6 @@
 {
   "name": "grunt-plugin-rename-from-file",
-  "description": "batch rename files by mapping them to a supplied list of names. Intended to renamed a bunch of image files that corresponded to a random name.",
+  "description": "batch rename files by mapping them to a supplied list of names. Intended to be used to rename a bunch of image files to a random name from a designated list.",
   "version": "0.1.0",
   "homepage": "https://github.com/cheee6y/grunt-plugin-rename-from-file",
   "author": {
