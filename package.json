@@ -2,22 +2,22 @@
   "name": "grunt-plugin-rename-from-file",
   "description": "batch rename files by mapping them to a supplied list of names. Intended to be used to rename a bunch of image files to a random name from a designated list.",
   "version": "0.2.1",
-  "homepage": "https://github.com/cheee6y/grunt-plugin-rename-from-file",
+  "homepage": "https://github.com/echee/grunt-plugin-rename-from-file",
   "author": {
     "name": "Emma Chee",
     "email": "Chee.Emma@abc.net.au"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/cheee6y/grunt-plugin-rename-from-file.git"
+    "url": "git://github.com/echee/grunt-plugin-rename-from-file.git"
   },
   "bugs": {
-    "url": "https://github.com/cheee6y/grunt-plugin-rename-from-file/issues"
+    "url": "https://github.com/echee/grunt-plugin-rename-from-file/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/cheee6y/grunt-plugin-rename-from-file/blob/master/LICENSE-MIT"
+      "url": "https://github.com/echee/grunt-plugin-rename-from-file/blob/master/LICENSE-MIT"
     }
   ],
   "engines": {
